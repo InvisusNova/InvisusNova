@@ -1,52 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Invisus%20Nova&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Privacy%20%7C%20Security%20%7C%20Open-Source&descAlignY=55&descAlign=50" alt="InvisusNova Banner"/>
-
-  <h1>Hi there, I'm Invisus Nova 👋</h1>
-  <h3>Building next-generation open-source tools focused on user privacy and security.</h3>
-
-  <p>
-    <a href="https://invisusnova.github.io"><img src="https://img.shields.io/badge/Website-invisusnova.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="https://youtube.com/@InvisusNova"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  </p>
-</div>
-
----
-
-### 🛡️ About Me
-
-- 🔭 I’m currently working on **[PrivaDoT](https://github.com/InvisusNova/PrivaDoT)** — A real-time privacy indicator for Android.
-- 🌱 I’m constantly learning about **Android Security, OS Internals, and Cryptography**.
-- 👯 I’m looking to collaborate on **Open-Source Privacy Tools**.
-- 💬 Ask me about **Kotlin, Jetpack Compose, Android Architecture, and Secure Coding**.
-- 📫 How to reach me: Drop a message on Telegram **[@InvisusNova](https://t.me/InvisusNova)**!
-
----
-
-### 💻 Tech Stack & Tools
+﻿<h1 align="center">Hi 👋, I'm InvisusNova</h1>
+<h3 align="center">Crafting Advanced Applications for Power Users.</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,compose,studio,git,github,python,linux&perline=9" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=InvisusNova&label=Profile%20views&color=0e75b6&style=flat" alt="InvisusNova" />
+  <a href="https://github.com/InvisusNova?tab=followers"><img src="https://img.shields.io/github/followers/InvisusNova?label=Followers&style=social" alt="GitHub followers"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/InvisusNova">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+Next-Gen+Power+Apps;Android+|+Web+|+Desktop;Security,+Privacy,+Performance" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InvisusNova&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6&bg_color=1a1b26" alt="InvisusNova GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InvisusNova&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6&background=1a1b26" alt="InvisusNova GitHub Streak" width="48%" />
-</div>
+I am a passionate developer focused on building high-performance, system-level, and utility-driven applications. My goal is to create software that pushes boundaries, empowering **power users** across every category—from privacy and security tools to advanced productivity and customization software.
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisusNova&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" width="50%" />
-</div>
+- 🔭 I’m currently building: **Advanced utility applications for Android & Beyond.**
+- 🌱 I’m currently exploring: **Deep system architecture, privacy engineering, and cross-platform ecosystems.**
+- ⚡ **Philosophy**: Code should be robust, design should be clean, and software should respect the user's device and privacy.
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <i>"Privacy is not a privilege, it is a fundamental right."</i>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,compose,python,bash,git,github,linux,windows&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InvisusNova&show_icons=true&theme=transparent&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9" height="192" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisusNova&layout=compact&theme=transparent&hide_border=true&title_color=3FB950&text_color=c9d1d9" height="192" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://youtube.com/@InvisusNova"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
