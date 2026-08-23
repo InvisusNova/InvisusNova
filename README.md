@@ -27,16 +27,7 @@ I am a passionate developer focused on building high-performance, system-level, 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,compose,python,bash,git,github,linux,windows&theme=dark" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InvisusNova&show_icons=true&theme=transparent&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9" height="192" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisusNova&layout=compact&theme=transparent&hide_border=true&title_color=3FB950&text_color=c9d1d9" height="192" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,bash,git,github,linux,windows,c,cpp&theme=dark" />
 </p>
 
 ---
