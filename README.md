@@ -53,8 +53,3 @@ I am Rajendra Joshi (InvisusNova), a versatile Software Engineer driven by innov
   <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
-  <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
-
