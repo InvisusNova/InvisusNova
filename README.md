@@ -17,7 +17,7 @@
 
 ## 🚀 The Vision
 
-I am a versatile Software Engineer driven by innovation. I don't confine myself to a single category or platform. My mission is to build highly scalable, premium-quality software across the entire tech ecosystem. Whether it's a lightweight mobile app, a complex desktop suite, a powerful browser extension, or a massive web application, I am building the future.
+I am Rajendra Joshi (InvisusNova), a versatile Software Engineer driven by innovation. I don't confine myself to a single category or platform. My mission is to build highly scalable, premium-quality software across the entire tech ecosystem. Whether it's a lightweight mobile app, a complex desktop suite, a powerful browser extension, or a massive web application, I am building the future.
 
 ### 🌐 Cross-Platform Mastery
 - **Mobile Ecosystem:** Android & iOS applications with native performance and premium user experiences.
@@ -56,4 +56,5 @@ I am a versatile Software Engineer driven by innovation. I don't confine myself 
   <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+
 
