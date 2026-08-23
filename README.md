@@ -48,7 +48,12 @@ I am a versatile Software Engineer driven by innovation. I don't confine myself 
 ## 📬 Connect with Me
 
 <p align="center">
+  <a href="mailto:InvisusNova@proton.me"><img src="https://img.shields.io/badge/Email-InvisusNova%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
   <a href="https://youtube.com/@InvisusNova"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+  <a href="https://instagram.com/InvisusNova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://t.me/InvisusNova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
+
